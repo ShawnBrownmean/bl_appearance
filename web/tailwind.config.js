@@ -4,7 +4,7 @@
 
 // --primary: #2c2c2c;
 // --secondary: #424050;
-// --accent: #8685ef;
+// --accent: #74C0FC;
 
 // --text-primary: #faf7ff;
 // --text-secondary: #2b2b2b;
@@ -20,9 +20,9 @@ export default {
         colors: {
             'primary': '#252525',
             'secondary': '#3C3C3C',
-            'accent': '#8685ef',
+            'accent': '#74C0FC',
 
-            'success': '#7FEB9D',
+            'success': '#74c0fc',
             'error': '#E5283E',
 
             'txt-primary': '#faf7ff',
